@@ -1,3 +1,5 @@
+This is a copy of https://github.com/wkmeijer/CS4160-trustchain-android with the keysharing added
+
 TrustChain Android [![Build Status](https://travis-ci.org/ClintonCao/CS4160-trustchain-android.svg?branch=master)](https://travis-ci.org/ClintonCao/CS4160-trustchain-android)
 ==================
 
